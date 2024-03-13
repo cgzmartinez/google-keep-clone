@@ -11,6 +11,6 @@ Mainly Firebase related ones that had to deal with changing the rules on the Fir
 ## What did you learn?
 I learned that I need to brush up more on TypeScript
 ## References
-Brittany Chiang https://github.com/bchiang7/google-keep-vue-firebase
+Stylings: Brittany Chiang https://github.com/bchiang7/google-keep-vue-firebase
 
-Haniel Ubogu https://github.com/HanielU/google-keep-sveltejs-firebase
+Functionality: Haniel Ubogu https://github.com/HanielU/google-keep-sveltejs-firebase
