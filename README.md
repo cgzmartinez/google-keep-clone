@@ -1,4 +1,4 @@
-# Google Keep Clone (with Svelte)
+# Google Keep Clone (with Svelte) [![Netlify Status](https://api.netlify.com/api/v1/badges/af6cf1de-7e98-46c4-895b-47d081c54dd2/deploy-status)](https://app.netlify.com/sites/gkeep-svelte/deploys)
 This project was made using Svelte in Vite
 ## Recommended IDE Setup
 [VS Code](https://code.visualstudio.com/) + [Svelte](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode).
