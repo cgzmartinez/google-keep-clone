@@ -2,7 +2,7 @@
 	<a href="https://keep.google.com/u/0/" target="_blank" class="w-[40px] mr-2 keep">
 		<img
 			class="hover:scale-125 transform transition duration-200"
-			src="imgs/keep.png"
+			src="imgs/keep.svg"
 			alt="Google Keep"
 		/>
 	</a>
